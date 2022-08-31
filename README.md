@@ -2,7 +2,7 @@
 
 <H2> 👨🏻‍💻 Criando um App de Lembretes e Tarefas com Kotlin.</h2>
 
-[![APK](https://img.shields.io/badge/APK-Dowload-green&?style=for-the-badge&logo=android&link=https://github.com/lucasmarcuzo/Projetos-Digital-Innovation-One/raw/main/Projeto%20-%20Criando%20um%20App%20de%20Lembretes%20e%20Tarefas%20com%20Kotlin/APK/app-release.apk)](https://github.com/lucasmarcuzo/Projetos-Digital-Innovation-One/raw/main/Projeto%20-%20Criando%20um%20App%20de%20Lembretes%20e%20Tarefas%20com%20Kotlin/APK/app-release.apk) 
+[![APK](https://img.shields.io/badge/APK-Dowload-green&?style=for-the-badge&logo=android&link=https://github.com/lucasmarcuzo/Projeto-DIO-APP-Lembrete-Tarefas/raw/main/APK/app-release.apk)](https://github.com/lucasmarcuzo/Projeto-DIO-APP-Lembrete-Tarefas/raw/main/APK/app-release.apk) 
 
 ## 👨🏻‍🔬 Instrutor: 
 
